@@ -62,3 +62,7 @@ Easily start your RESTful Web Services
 
 ### Reto a realizar
 https://quarkus.io/quarkus-workshops/super-heroes/
+
+
+### Material
+https://github.com/joedayz/quarkus-bcp
