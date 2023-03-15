@@ -66,3 +66,5 @@ https://quarkus.io/quarkus-workshops/super-heroes/
 
 ### Material
 https://github.com/joedayz/quarkus-bcp
+https://www.graalvm.org/latest/docs/getting-started/windows/
+https://medium.com/graalvm/using-graalvm-and-native-image-on-windows-10-9954dc071311
